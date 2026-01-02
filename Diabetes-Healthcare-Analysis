@@ -1,0 +1,18 @@
+diabetes-healthcare-analysis/
+│
+├── data/
+│   └── diabetes_data.csv
+│
+├── sql/
+│   └── diabetes_analysis.sql
+│
+├── python/
+│   └── diabetes_analysis.ipynb
+│
+├── powerbi/
+│   └── diabetes_dashboard.pbix
+│
+├── images/
+│   └── dashboard_preview.png
+│
+└── README.md
